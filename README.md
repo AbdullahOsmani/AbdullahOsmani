@@ -25,7 +25,7 @@ I am focusing on mastering these key areas:
 | Lab # | Lab Title                                     | Description                                                      | Tools/Topics                      |
 |-------|-----------------------------------------------|------------------------------------------------------------------|-----------------------------------|
 | 01    | [intro-to-devops](   https://github.com/Ab786786/intro-to-devops)                       | What is DevOps, lifecycle, benefits, Dev vs Ops                  | DevOps fundamentals               |
-| 02    | [devops-culture-principles](#)                | DevOps values (CALMS), CI/CD concepts, feedback loops            | DevOps mindset, collaboration     |
+| 02    | [devops-culture-principles](https://github.com/Ab786786/devops-culture-principles)                | DevOps values (CALMS), CI/CD concepts, feedback loops            | DevOps mindset, collaboration     |
 | 03    | [git-github-workflow-lab](#)                  | Branching, commits, pull requests, Issues, Projects, Wiki        | Git, GitHub                       |
 | 04    | [jenkins-ci-cd-pipeline](#)                   | Install Jenkins, create a basic Hello World pipeline             | Jenkins                           |
 | 05    | [jenkins-github-docker-deploy](#)             | Full CI/CD pipeline from GitHub to Docker                        | Jenkins, GitHub, Docker           |
