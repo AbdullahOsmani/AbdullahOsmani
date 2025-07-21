@@ -28,7 +28,7 @@ I am focusing on mastering these key areas:
 | 02    | [devops-culture-principles](https://github.com/Ab786786/devops-culture-principles)                | DevOps values (CALMS), CI/CD concepts, feedback loops            | DevOps mindset, collaboration     |
 | 03    | [git-github-workflow-lab](https://github.com/AbdullahOsmani/git-github-workflow-lab)                  | Branching, commits, pull requests, Issues, Projects, Wiki        | Git, GitHub                       |
 | 04    | [jenkins-ci-cd-pipeline](https://github.com/AbdullahOsmani/jenkins-hello-world-pipeline)                   | Install Jenkins, create a basic Hello World pipeline             | Jenkins                           |
-| 05    | [jenkins-github-docker-deploy](#)             | Full CI/CD pipeline from GitHub to Docker                        | Jenkins, GitHub, Docker           |
+| 05    | [jenkins-github-docker-deploy](https://github.com/AbdullahOsmani/jenkins-github-docker-deploy)             | Full CI/CD pipeline from GitHub to Docker                        | Jenkins, GitHub, Docker           |
 | 06    | [docker-nginx-container](#)                   | Run Nginx in a Docker container                                  | Docker                            |
 | 07    | [dockerize-flask-app](#)                      | Build custom Docker image for Flask app                          | Docker, Flask                     |
 | 08    | [docker-compose-lab](#)                       | Multi-container setup with Docker Compose                        | Docker Compose                    |
